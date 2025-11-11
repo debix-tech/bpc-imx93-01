@@ -26,7 +26,7 @@ speed
 | System          |       |
 |-----------------|-------|
 | Motherboard | DEBIX Model C |
-| Memory|1GB LPDDR4 (2GB optional)
+| Memory|1GB LPDDR4X (2GB optional)
 |Storage|8GB/16GB/32GB/64GB/128GB/256GB Micro SD card (eMMC optional)
 |OS| Ubuntu 22.04 Server, Yocto-L6.1.36, Debian 12 Server (also supports OpenWRT 
 and FreeRTOS) |
@@ -52,7 +52,7 @@ and FreeRTOS) |
 
 
 ## Ordering Codes
-| RAM LPDDR4  | eMMC Storage | PN for BPC-iMX93-01 -20°C to 70°C | PN for BPC-iMX93-01 -40°C to 85°C |
+| RAM LPDDR4X  | eMMC Storage | PN for BPC-iMX93-01 -20°C to 70°C | PN for BPC-iMX93-01 -40°C to 85°C |
 |-------------|--------------|----------------|---------------------|
 | **1GB DDR** | Lite  |                      | BPC-iMX93-01-I-D1E0 |
 |             | 8GB   | BPC-iMX93-01-D1E8    | BPC-iMX93-01-I-D1E8 |
@@ -67,7 +67,7 @@ and FreeRTOS) |
 
 ## Compatible with DEBIX's Accessories
 | Product                     | Model               |
-|-----------------------------|---------------------|
+|:-----------------------------|:---------------------|
 | SBC POE Board               | EMB-AS-06           |
 
 ## Safety Instructions and Warnings:
@@ -87,7 +87,7 @@ and FreeRTOS) |
 
 - For safety reasons, the device can only be disassembled by professional personnel.
 
-- Do not place the device in a place where the ambient temperature is below -40℃ or above 85℃. This will damage the machine. It needs to be kept in an environment at controlled temperature.
+- Do not place the device outside the specified ambient temperature range. This will damage the machine. It needs to be kept in an environment at controlled temperature.
 
 ## Contact Us
 - **Headquarters**: DEBIX Technology Inc., 8345 Gold River Ct., Las Vegas, NV 89113, USA  
